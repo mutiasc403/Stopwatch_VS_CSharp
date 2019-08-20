@@ -1,0 +1,10 @@
+D:\Visual Studio Project\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\Visual Studio Project\Stopwatch\bin\Debug\Stopwatch.exe
+D:\Visual Studio Project\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.exe
+D:\Visual Studio Project\Stopwatch\obj\Debug\Stopwatch.pdb
